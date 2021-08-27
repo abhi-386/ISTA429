@@ -1,0 +1,31 @@
+Data management: saving raw and intermediate forms, documenting all steps, and creating tidy data that is available to analysis.
+Software: writing, organizing, and sharing scripts and programs used in an analysis.
+Collaboration: making it easy for existing and new collaborators to understand and contribute to a project.
+Project organization: organizing the digital artifacts of a project to ease discovery and understanding.
+Tracking changes: recording how various components of your project change over time.
+Manuscripts: writing manuscripts in a way that leaves an audit trail and minimizes manual merging of conflicts.  
+Box 1:
+
+Data Management: Ensure that raw data are backed up in more than one location. 
+This is an essential step in data management that many students and professionals easily overlook. Ensuring your data is stored in various locations helps to make things easy in the long run. If the raw data is not backed up and all the information is stored in one area. Then, if anything goes wrong with the only system, you will lose all your data and have to redo the work. 
+Backing up the data prevents it from being lost, but you can access the copy of the data remotely. Numerous cloud servers can back your information for a minimal cost, such as  Amazon Simple Storage Service (Amazon S3), Google Cloud Storage, or Microsoft Azure.
+
+Software: Place a brief explanatory comment at the start of every program
+All the practices mentioned in the article are necessary for having well-written explanatory software. Commenting at the beginning of every program helps the coder recall what that particular section is doing in the code.  There will be thousands of lines of code in a single program, and if it is well commented out, it is easy to figure the working of the code.
+Commenting also helps to debug any issues with the code. But, of course, the best practice for commenting is to write it before even writing the code. It ensures what we are about to code. 
+For example, if you wrote a code one year back that is not commented out, it will take time to figure out what each section in the program is supposed to do. But a well-commented code will make your things more manageable and efficient. 
+ 
+Collaboration: Create a shared "to-do" list
+Collaboration on a project is a ubiquitous scenario in today’s environment. It helps individuals to come together and work on career-defining projects. Moreover, collaboration comes because everyone in the group is doing something practical, which helps progress the project. Thus having a shared “to-do” list is essential for the smooth running of the project.
+Create a “to-do” list provides advantages such as delegating pieces of work to individual members with a time frame. However, it keeps track of the work completed and the individual’s contributions to the project. 
+ 
+Project organization: Put each project in its directory, which is named after the project.
+Once the project or the program is completed, it has to be organized and stored in a location. The last part of managing the project has its benefits. However, at times there can be many parts to the project and many other projects as well. Therefore, we need to ensure that the individual assignment has its directory and its subpart is stored in those directories.
+This organization helps us to find our project later on with ease. 
+ 
+Keeping track of changes: Keep changes small 
+Once we have successfully completed the project and organized into its individual directories, updating the project plays the next role. As we now, time to time we need to update our changes to the project to its requirement. 
+Once we start making our changes, we should make sure that these changes are small in nature as it helps other to understand the changes being made. “As a rule of thumb, a good size for a single change is a group of edits that you could imagine wanting to undo in one step at some point in the future.”
+ 
+ 
+
